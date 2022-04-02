@@ -1,1 +1,2 @@
-describing what each script is doing
+#!/bin/bash
+su betty
