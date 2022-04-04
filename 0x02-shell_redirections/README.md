@@ -1,3 +1,1 @@
-#!/bin/bash
-My first readme
-
+My first shell redirection task
