@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo Hello, World
 [A[B[D[D
 ls
@@ -93,3 +94,6 @@ clear
 
 
 
+=======
+echo "Hello, World"
+>>>>>>> 645096319e35a2b6cb8f67dce8cca8f18381c123
