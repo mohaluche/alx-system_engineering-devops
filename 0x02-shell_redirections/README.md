@@ -1,3 +1,1 @@
-#!/bin/bash
-My first readme
-
+My first readme file for shell redarection
